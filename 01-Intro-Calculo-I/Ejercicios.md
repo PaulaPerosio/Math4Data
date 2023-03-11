@@ -30,8 +30,10 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
 **4)** De shopping compré varias prendas por un valor de 350$. Había una promo del 30% sobre la cual se aplico luego
 un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la respuesta a su PRIMER número decimal.
 
-    a- De qué porcentaje fue el descuento con la tarjeta de fidelidad?
+    a- De qué porcentaje fue el descuento con la tarjeta de fidelidad? 
+    20%
     b- Cuánto dinero me ahorré por la promo y cuanto por la tarjeta de fidelidad?
+    Promo: 105 Tarjeta: 49
 
 
 **5)** Para cada medida en grados a continuación, responde con la letra que corresponde al ángulo de la figura.
@@ -52,13 +54,18 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
 menor (redondea la respuesta a su PRIMER número decimal):
 
     a- Cuál es su seno?
+    0.6
     b- Cuál es su coseno?
+    0.8
     c- Cuál es su tangente?
+    0.7
 
 Usando las funciones inversas en la calculadora (o bien en internet) arccos, arcsin y/o arctan, responder:
 
     d- Cuántos grados mide el menor de los dos ángulos agudos?
+    33.75
     e- Y el mayor?
+    56.25
 
 **7)** Elige la opción correcta para cada caso.
 
@@ -96,7 +103,7 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
     -A 
         i- f(x)= 4*x+1
         ii- f(x)= 3*x+2
-        iii- f(x)= 3*x+1
+        iii- f(x)= 3*x+1 estaaa
         iv- f(x)= 5*x
 
     -B 
@@ -131,3 +138,5 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 **12)** Calcula la pendiente y ordenada al origen de la siguiente recta:
 
 <img  src='./figuras/EX_12.png' height='270px'>
+ordenada: 2
+pendiente:  -0.5
